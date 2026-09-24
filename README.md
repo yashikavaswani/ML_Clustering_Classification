@@ -1,4 +1,4 @@
-# Task 3: Classification & Clustering on Gene Expression Cancer RNA-Seq Data
+# Classification & Clustering on Gene Expression Cancer RNA-Seq Data
 
 Runs 5 classification algorithms and K-Means clustering on the Kaggle "gene
 expression cancer RNA-Seq" dataset, comparing model accuracy and evaluating
